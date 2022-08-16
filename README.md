@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arandome
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning information sciences
+- 🌱 I’m currently learning computer sciences
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? Don't.
 
